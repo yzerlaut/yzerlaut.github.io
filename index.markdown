@@ -5,18 +5,18 @@
 layout: home
 ---
 
-# Publications
+## Publications
 
 [...]
 
-# Software
+## Software
 
 [...]
 
-# Blog
+## Blog
 
 [...]
 
-# CV
+## CV
 
 [...]
