@@ -1,3 +1,3 @@
-# Yann Zerlaut personal webpage
+# personal webpage
 
 [...]
