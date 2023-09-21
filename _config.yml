@@ -21,9 +21,9 @@
 title: Yann Zerlaut
 email: yann.zerlaut@icm-institute.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal webpage !
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Y. Zerlaut personal webpage
+baseurl: "/about" # the subpath of your site, e.g. /blog
+url: "https://yzerlaut.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yzerlaut
 
 # Build settings
@@ -40,12 +40,12 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 #exclude:
-  #- .sass-cache/
-  #- .jekyll-cache/
-  #- gemfiles/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
   #- README.md
-  #- Gemfile
-  #- Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
   #- node_modules/
   #- vendor/bundle/
   #- vendor/cache/

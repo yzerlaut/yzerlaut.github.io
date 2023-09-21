@@ -1,5 +1,3 @@
 > Welcome to my personal webpage !
 
-# Publications
-
-Link to [Publications](./publications.markdown)
+You will find here a link to my [publications list](./publications.markdown)

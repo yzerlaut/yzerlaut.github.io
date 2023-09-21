@@ -4,8 +4,6 @@ title: Softwares
 permalink: /softwares/
 ---
 
-# Softwares
-
 ## `physion`
 
 > An integrated software 
