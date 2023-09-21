@@ -1,4 +1,10 @@
-# Publications
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+# Scientific Articles in peer-reviewed international Scientific Journals
 
 ## List of Peer Reviewed Publications
 
@@ -6,9 +12,14 @@
 10. 
 9. 
 8. 
--
--
-- 
+7. 
+6. 
+5. 
+4. 
+3. 
+2. 
+1. **Zerlaut Y.**, 
+
 
 ## Preprints
 
