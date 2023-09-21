@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
+
+<div><img src="../docs/profile.png" alt="profile" width="30%" align="left" style="margin-right: 10px"></div>
 
 After undergraduate studies in complex systems physics, I did a PhD in the laboratory for Computational Neuroscience at CNRS (group of A. Destexhe), I was then a postdoctoral fellow in the Neural Coding laboratory at the Italian Institute of Technology (group of T. Fellin & S. Panzeri) and in the Neuroinformatics laboratory at CNRS (group of A. Davison). I am currently a postdoctoral fellow working on a collaborative project involving the groups of cellular and circuit physiology in the Brain and Spine Institute (groups of N. Rebola and A. Bacci).
 
