@@ -21,7 +21,7 @@
 title: Yann Zerlaut
 email: yann.zerlaut@icm-institute.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Y. Zerlaut personal webpage
+  personal webpage
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://yzerlaut.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yzerlaut
