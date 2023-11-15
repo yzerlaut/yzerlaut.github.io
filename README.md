@@ -2,10 +2,10 @@
 
 **Welcome to my personal webpage !**
 
-I am a **Computational Neuroscientist** at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/). I study the *principles of information processing in cortical networks* by combining approaches and tools from [Theoretical Neuroscience](./README.md#Theoretical_Neuroscience), [Data Science](./README.md#Data_Science), [Data Engineering](./README.md#Data_Engineering) and [Software Engineering](./README.md#Data_Science).
+I am a **Computational Neuroscientist** at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/). I study the *principles of information processing in cortical networks* by combining tools from [Theoretical Neuroscience](./README.md#Theoretical_Neuroscience), [Data Science](./README.md#Data_Science), [Data Engineering](./README.md#Data_Engineering) and [Software Engineering](./README.md#Data_Science).
 
 
-In the laboratory (teams of [Nelson Rebola](https://therebolalab.org) and [Alberto Bacci](https://baccilab.org)), we combine this computational approach with neurophysiological recordings (optophysiology, electrophysiology) and experimental manipulations (genetic deletion, chemogenetics, optogenetics) of brain activity.
+In the laboratory (teams of [Nelson Rebola](https://therebolalab.org) and [Alberto Bacci](https://baccilab.org)), we combine this computational approach with neurophysiological recordings (optophysiology, electrophysiology) and experimental manipulations of brain activity (optogenetics, chemogenetics, genetic deletion).
 
 ## Theoretical Neuroscience
 
