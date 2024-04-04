@@ -14,8 +14,9 @@ permalink: /publications/
 - [Pdf version](https://www.biorxiv.org/content/10.1101/2024.01.10.574973v3.full.pdf)
  
 
-#### 2. **Interneuron Specific Dendritic Computation in the Neocortex**
-- Morabito A.*, __Zerlaut Y.__*, Dhanasobhon D., Berthaux E., Moneron G., Cathala L, Lourenco J., Bacci A., Digregorio D. & N. Rebola      (*co-first authors)
+#### 2. Interneuron Specific Dendritic Computation in the Neocortex
+
+- Authors: Morabito A.* , __Zerlaut Y.__* , Dhanasobhon D., Berthaux E., Moneron G., Cathala L, Lourenco J., Bacci A., Digregorio D. & N. Rebola      (*co-first authors)
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
 
 ## Peer-Reviewed Articles
