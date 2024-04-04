@@ -6,22 +6,28 @@ permalink: /publications/
 
 ## Preprints 
 
-1. **Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin-positive interneurons during spontaneous behaviors**
-- de Brito Van Velze M., Dhanasobhon D., Martinez M., Morabito A., __Zerlaut Y.__* & N. Rebola*    (*co-last authors)
+#### 1) Van Velze et al., *BioRXiv* (2024)
+
+- Title: **Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin-positive interneurons during behavioral state transitions**
+- Authors: de Brito Van Velze M., Dhanasobhon D., Martinez M., Morabito A., __Zerlaut Y.__* & N. Rebola*    (*co-last authors)
+- DOI: https://doi.org/10.1101/2024.01.10.574973
+- [Pdf version](https://www.biorxiv.org/content/10.1101/2024.01.10.574973v3.full.pdf)
  
 
-2. **Interneuron Specific Dendritic Computation in the Neocortex**
+#### 2. **Interneuron Specific Dendritic Computation in the Neocortex**
 - Morabito A.*, __Zerlaut Y.__*, Dhanasobhon D., Berthaux E., Moneron G., Cathala L, Lourenco J., Bacci A., Digregorio D. & N. Rebola      (*co-first authors)
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
 
 ## Peer-Reviewed Articles
 
 #### 12) Lorenzi et al., *PLoS Computational Biology* (2023)
+
 - Title: **A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics**
 - Authors: R M Lorenzi, A Geminiani, **Y Zerlaut**, M De Grazia, Alain Destexhe, C A M Gandini Wheeler-Kingshott, F Palesi, C Casellato, E D’Angelo
 - DOI: https://doi.org/10.1371/journal.pcbi.1011434
 
 #### 11) Zerlaut et al., *eNeuro* (2022)
+
 - Title: **Network States Classification based on Local Field Potential Recordings in the Awake Mouse Neocortex**
 - Authors: **Zerlaut Y.**, Zucca S., Panzeri S. & T. Fellin 
 - Github repository for the whole study: [github.com/yzerlaut/Network_State_Index](https://github.com/yzerlaut/Network_State_Index)

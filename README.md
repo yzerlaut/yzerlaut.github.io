@@ -11,6 +11,7 @@ In the laboratory (teams of [Nelson Rebola](https://therebolalab.org) and [Alber
 
 I work on models of cortical activity at the cellular and network scale. I use analytical approaches together with numerical simulations to study the emergent properties of those systems. Various examples of such theoretical modelling work can be found in my [publication list](./publications.md).
 
+
 ## Data Science 
 
 Our research strongly relies on the use of machine learning to analyze and interpret neurophysiological data. 
