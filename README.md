@@ -2,15 +2,13 @@
 
 **Welcome to my personal webpage !**
 
-I am a **Computational Neuroscientist** at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/). I study the *principles of information processing in cortical networks* by combining tools from [Theoretical Neuroscience](./README.md#Theoretical_Neuroscience), [Data Science](./README.md#Data_Science), [Data Engineering](./README.md#Data_Engineering) and [Software Engineering](./README.md#Data_Science).
-
+I am a **Computational Neuroscientist** at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where I study the *principles of information processing in cortical networks* by using different theoretical and computational tools (see below).
 
 In the laboratory (teams of [Nelson Rebola](https://therebolalab.org) and [Alberto Bacci](https://baccilab.org)), we combine this computational approach with neurophysiological recordings (optophysiology, electrophysiology) and experimental manipulations of brain activity (optogenetics, chemogenetics, genetic deletion).
 
 ## Theoretical Neuroscience
 
 I work on models of cortical activity at the cellular and network scale. I use analytical approaches together with numerical simulations to study the emergent properties of those systems. Various examples of such theoretical modelling work can be found in my [publication list](./publications.md).
-
 
 ## Data Science 
 
@@ -41,6 +39,3 @@ Our original experimental approach and our data management strategy requires the
 I am the lead developer of [`physion`](https://github.com/yzerlaut/physion): a full software suite for neurophysiology in the context of visual processing in behaving mice. I am a contributor to [`fairgraph`](https://fairgraph.readthedocs.io) a high-level API for metadata management in neuroscientific research. I developed several `python` packages for Data Science applications in the context of neurophysiology.
 
 My full software production is available on my Github profile: [github.com/yzerlaut](https://github.com/yzerlaut)
-
-
-

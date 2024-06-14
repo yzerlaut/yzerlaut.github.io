@@ -45,9 +45,9 @@ Interestingly, previous research has shown that the behavioral context in which 
 This research line has two important applications. First a biomedical application. Indeed, characterizing neural computations in the healthy brain will allow to understand how complex psychiatric disorders, such as schizophrenia or depression, leads to cognitive dysfunction as a result of the (sometimes subtle) alterations in the network processing of information. Second, this drives advances in biologically-inspired artificial intelligence. In particular this research suggests specific algorithms to make artificial systems capable of the computational flexibility observed in the mammalian cortex.
 
 
-### Other personal interests
+<!--### Other personal interests-->
 
-Besides my current research topic, I am a passionate reader of the popular literature in the fields of physics, biology and history. 
-I actively follow the development of the field of "Big History", a multi-level and multi-disciplinary description of the history of human civilizations. Integrating the wealth of information coming from very different fields in order to build a comprehensive picture of humankind evolution is a fascinating challenge.
+<!--Besides my current research topic, I am a passionate reader of the popular literature in the fields of physics, biology and history. -->
+<!--I actively follow the development of the field of "Big History", a multi-level and multi-disciplinary description of the history of human civilizations. Integrating the wealth of information coming from very different fields in order to build a comprehensive picture of humankind evolution is a fascinating challenge.-->
 
-In my spare time, I am a (still not decent) jazz guitar player and I love to (slowly) ride my road bike on the nasty routes of the french/italian Alps.
+<!--In my spare time, I am a (still not decent) jazz guitar player and I love to (slowly) ride my road bike on the nasty routes of the french/italian Alps.-->
