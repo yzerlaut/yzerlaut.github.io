@@ -6,7 +6,13 @@ permalink: /cv/
 
 ## Positions
 
-- 2020-now. _Post-doctoral fellow_ @ **Institut du Cerveau (ICM)**
+- 2024-now. _Junior Professor in Computational Neuroscience_ @ **Sorbonne Université** 
+ 
+    [Faculté de Santé, Sorbonne Université, Paris (France)](https://sante.sorbonne-universite.fr/)
+
+    Institut du Cerveau. Team: [Cellular Mechanisms of Sensory Processing](https://therebolalab.org/)
+
+- 2020-2024. _Post-doctoral fellow_ @ **Institut du Cerveau (ICM)**
  
     Neurophysiology department. Hôpital Pitié-Salpêtrière, Paris (France).
 
@@ -62,13 +68,11 @@ permalink: /cv/
 
 - 2006-2008: Classes préparatoires PCSI-PC*, Lycée Georges Clémenceau, Nantes
 
-## Fellowships, Awards and Qualifications
+## Funding, Fellowships & Awards
 
 - 2020: **Marie Sklodowska-Curie fellowship** from the European Commission (190k)
 
 - 2019: Postdoctoral fellowship **Aide au Retour en France** from the Fondation pour la Recherche Médicale (200k)
-
-- 2019: Qualification for the position of "Maître de Conférence" in Neuroscience
 
 - 2015: Fellowship Espoirs de la Recherche from the Fondation pour la Recherche Médicale 
 

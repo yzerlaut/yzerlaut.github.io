@@ -2,7 +2,7 @@
 
 **Welcome to my personal webpage !**
 
-I am a **Computational Neuroscientist** at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where I study the *principles of information processing in cortical networks* by using different theoretical and computational tools (see below).
+I am a _Junior Professor in Computational Neuroscience_ teaching at [Sorbonne Université](https://www.sorbonne-universite.fr/) and performing research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/). I study the *principles of information processing in cortical networks* by using different theoretical and computational tools (see below).
 
 In the laboratory (teams of [Nelson Rebola](https://therebolalab.org) and [Alberto Bacci](https://baccilab.org)), we combine this computational approach with neurophysiological recordings (optophysiology, electrophysiology) and experimental manipulations of brain activity (optogenetics, chemogenetics, genetic deletion).
 
