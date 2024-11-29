@@ -17,14 +17,15 @@ permalink: /publications/
 
 - Title: **Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin interneurons during behavioral state transitions**
 - Authors: de Brito Van Velze M., Dhanasobhon D., Martinez M., Morabito A., Berthaux E., Martins Pinho C., __Zerlaut Y.__* & N. Rebola*    (<ins>*co-last authors</ins>)
-- DOI: https://doi.org/10.1016/j.celrep.2024.114197
+- DOI: [10.1016/j.celrep.2024.114197](https://doi.org/10.1016/j.celrep.2024.114197)
 - [Pdf version](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)
--
+ 
 #### 12) Lorenzi et al., *PLoS Computational Biology* (2023)
 
 - Title: **A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics**
 - Authors: R M Lorenzi, A Geminiani, **Y Zerlaut**, M De Grazia, Alain Destexhe, C A M Gandini Wheeler-Kingshott, F Palesi, C Casellato, E D’Angelo
-- DOI: https://doi.org/10.1371/journal.pcbi.1011434
+- DOI: [10.1371/journal.pcbi.1011434](https://doi.org/10.1371/journal.pcbi.1011434)
+- [Pdf version](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011434&type=printable)
 
 #### 11) Zerlaut et al., *eNeuro* (2022)
 
@@ -39,7 +40,7 @@ permalink: /publications/
 - Title: **Visual-area-specific tonic modulation of GABA release by endocannabinoids sets the activity and coordination of neocortical principal neurons**
 - Authors: Koukouli F., Montmerle M., Aguirre A., De Brito Van Velze M., Peixoto J., Choudhary V., Varilh M., Julio-Kalajzic F., Allene C., Mendéz P., **Zerlaut Y.**, Marsicano G., Schlüter O.M., Rebola N., Bacci A. & J. Lourenço
 - Github repository for the computational model: [github.com/yzerlaut/CB1_ntwk_modeling](https://github.com/yzerlaut/CB1_ntwk_modeling)
-- DOI: [Link to the journal article](https://www.sciencedirect.com/science/article/pii/S2211124722010191) 
+- DOI: [10.1016/j.celrep.2022.111202](https://doi.org/10.1016/j.celrep.2022.111202)
 - [Pdf version](https://hal.sorbonne-universite.fr/hal-03777453/document)
 
 #### 9) Morabito et al., *Cell Reports* (2022)
@@ -104,7 +105,3 @@ permalink: /publications/
 - Authors: Reig R., Zerlaut Y., Vergara R., Destexhe A. and M.V. Sanchez-Vives  
 - DOI: 
 - [Pdf version](https://drive.google.com/file/d/1YbPqW54ho1lf3L4p5rVw5Q6yzLBZ-RM4/view?usp=share_link)
-
-
-1.
-2.
