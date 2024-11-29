@@ -2,9 +2,11 @@
 
 **Welcome to my personal webpage !**
 
-I am a _Junior Professor in Computational Neuroscience_ teaching at [Sorbonne Université](https://www.sorbonne-universite.fr/) and performing research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/). I study the *principles of information processing in cortical networks* by using different theoretical and computational tools (see below).
+I am a _Junior Professor in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/). I perform my research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where I study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
 
-In the laboratory (teams of [Nelson Rebola](https://therebolalab.org) and [Alberto Bacci](https://baccilab.org)), we combine this computational approach with neurophysiological recordings (optophysiology, electrophysiology) and experimental manipulations of brain activity (optogenetics, chemogenetics, genetic deletion).
+I am a member of the [Rebola lab](https://therebolalab.org) and we closely collaborate with the [Bacci lab](https://baccilab.org). Together, we combine those computational approaches with neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) to study cerebral processing and its dysfunctions.
+
+Here is a quick overview of the different aspects of my research:
 
 ## Theoretical Neuroscience
 
@@ -28,9 +30,7 @@ All of the code and data of my research is made to be directly uploaded to moder
 
 ## Data Engineering
 
-We do data-intensive research. Our experimental approach consists in recording neural activity in the neocortex during behavior using optical imaging (e.g. [2-photon calcium imaging](https://www.nature.com/articles/s43586-022-00147-1)) and electrophysiology (e.g. [Neuropixels probe recordings](https://www.science.org/doi/abs/10.1126/science.abf4588)). In practice, this means the processing of massive amounts of data on a daily basis (e.g. the recordings made in [Van Velze et al.](./publications.md) corresponds to the processing of >1TB per day). 
-
-Part of my work consists in the design and maintenance of the preprocessing pipeline for such data.
+We do data-intensive research. Our experimental approach consists in recording neural activity in the neocortex using optical imaging (e.g. [2-photon calcium imaging](https://www.nature.com/articles/s43586-022-00147-1)) and electrophysiology (e.g. [Neuropixels probe recordings](https://www.science.org/doi/abs/10.1126/science.abf4588)) while monitoring behavior with video recordings. In practice, this means the processing and assembling of massive amounts of data on a daily basis. Part of my work consists in the design and maintenance of the preprocessing pipeline for such data.
 
 ## Software Engineering
 
@@ -39,3 +39,4 @@ Our original experimental approach and our data management strategy requires the
 I am the lead developer of [`physion`](https://github.com/yzerlaut/physion): a full software suite for neurophysiology in the context of visual processing in behaving mice. I am a contributor to [`fairgraph`](https://fairgraph.readthedocs.io) a high-level API for metadata management in neuroscientific research. I developed several `python` packages for Data Science applications in the context of neurophysiology.
 
 My full software production is available on my Github profile: [github.com/yzerlaut](https://github.com/yzerlaut)
+
