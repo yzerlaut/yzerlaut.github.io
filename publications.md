@@ -6,21 +6,20 @@ permalink: /publications/
 
 ## Preprints 
 
-#### 1) Van Velze et al., *BioRXiv* (2024)
-
-- Title: **Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin-positive interneurons during behavioral state transitions**
-- Authors: de Brito Van Velze M., Dhanasobhon D., Martinez M., Morabito A., __Zerlaut Y.__* & N. Rebola*    (*co-last authors)
-- DOI: https://doi.org/10.1101/2024.01.10.574973
-- [Pdf version](https://www.biorxiv.org/content/10.1101/2024.01.10.574973v3.full.pdf)
- 
-
-#### 2. Interneuron Specific Dendritic Computation in the Neocortex
+#### 14) Interneuron Specific Dendritic Computation in the Neocortex
 
 - Authors: Morabito A.* , __Zerlaut Y.__* , Dhanasobhon D., Berthaux E., Moneron G., Cathala L, Lourenco J., Bacci A., Digregorio D. & N. Rebola      (*co-first authors)
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
 
 ## Peer-Reviewed Articles
 
+#### 13) Van Velze et al., *Cell Reports* (2024)
+
+- Title: **Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin interneurons during behavioral state transitions**
+- Authors: de Brito Van Velze M., Dhanasobhon D., Martinez M., Morabito A., Berthaux E., Martins Pinho C., __Zerlaut Y.__* & N. Rebola*    (<ins>*co-last authors</ins>)
+- DOI: https://doi.org/10.1016/j.celrep.2024.114197
+- [Pdf version](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)
+-
 #### 12) Lorenzi et al., *PLoS Computational Biology* (2023)
 
 - Title: **A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics**
