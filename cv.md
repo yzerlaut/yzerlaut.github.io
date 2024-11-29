@@ -50,7 +50,7 @@ permalink: /cv/
 
     Speciality: *Computational Neuroscience*, *Biophysics* [(thesis)](https://tel.archives-ouvertes.fr/tel-01531824/)
 
-- 2012: M.Sc. Cognitive Science. EHESS Paris, ENS Paris, Université Paris V
+- 2012: **M.Sc. Cognitive Science**. EHESS Paris, ENS Paris, Université Paris V
 
     Specialty: *Mathematical and Physical modeling*
 
