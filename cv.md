@@ -71,7 +71,7 @@ permalink: /cv/
 ## Funding, Fellowships & Awards
 
 - 2024: **ANR Chaire de Professeur Junior** (200k)
--
+ 
 - 2020: **Marie Sklodowska-Curie fellowship** from the European Commission (190k)
 
 - 2019: Postdoctoral fellowship **Aide au Retour en France** from the Fondation pour la Recherche Médicale (200k)
