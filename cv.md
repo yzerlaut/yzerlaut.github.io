@@ -74,7 +74,7 @@ permalink: /cv/
  
 - 2020: **Marie Sklodowska-Curie fellowship** from the European Commission (190k)
 
-- 2019: Postdoctoral fellowship **Aide au Retour en France** from the Fondation pour la Recherche Médicale (200k)
+- 2019: **Aide au Retour en France** from the Fondation pour la Recherche Médicale (200k)
 
 - 2015: Fellowship Espoirs de la Recherche from the Fondation pour la Recherche Médicale 
 
