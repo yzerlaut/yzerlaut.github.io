@@ -6,9 +6,9 @@ permalink: /softwares/
 
 ### physion
 
-<div><img src="https://github.com/yzerlaut/physion/raw/main/docs/physion.png" alt="physion logo" width="25%" align="left" style="margin-right: 20px"></div>
+<div><img src="https://github.com/yzerlaut/physion/raw/main/docs/icons/physion.png" width="25%" align="left" style="margin-right: 20px"></div>
 
-I am the lead developer of [`physion`](https://github.com/yzerlaut/physion): an integratedi software for the acquisition, the pre-processing, the standardisation, the analysis and the sharing of neurophysiological data in the context of visual processing in behaving mice.
+I am the lead developer of [`physion`](https://github.com/yzerlaut/physion): an integrated software for the acquisition, the pre-processing, the standardisation, the analysis and the sharing of neurophysiological data in the context of visual processing in behaving mice.
 
 See the documentation at: [github.com/yzerlaut/physion](https://github.com/yzerlaut/physion)
 
@@ -16,7 +16,7 @@ See the documentation at: [github.com/yzerlaut/physion](https://github.com/yzerl
 
 I am a contributor to [`fairgraph`](https://github.com/yzerlaut/fairgraph) a high-level python API for the Ebrains knowledge graph: a metadata management system for neuroscientific data.
 
-See the documentation at: https://fairgraph.readthedocs.io
+See the documentation at: [https://fairgraph.readthedocs.io](https://fairgraph.readthedocs.io)
 
 ### Data Science package suite
 
