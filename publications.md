@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Preprints 
+## _Preprints_
 
 #### 14) Interneuron Specific Dendritic Computation in the Neocortex
 
