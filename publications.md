@@ -6,12 +6,22 @@ permalink: /publications/
 
 ## _Preprints_
 
-#### 14) Interneuron Specific Dendritic Computation in the Neocortex
+#### 15) Morabito et al., *BioRXiv* (2025) 
 
+- Title: **A dendritic substrate for temporal diversity of cortical inhibition**
 - Authors: Morabito A.* , __Zerlaut Y.__* , Dhanasobhon D., Berthaux E., Moneron G., Cathala L, Lourenco J., Bacci A., Digregorio D. & N. Rebola      (*co-first authors)
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
+- DOI: [10.1101/2024.07.09.602783](https://doi.org/10.1101/2024.07.09.602783)
+
 
 ## Peer-Reviewed Articles
+
+#### 14) Zerlaut & Tzilivaki, *Front. Cellular Neuroscience* (2025)
+
+- Title: **Interneuronal Modulations as a functional switch for cortical computations: Mechanisms and Implication for disease**
+- Authors: __Zerlaut Y.__* & A. Tzilivaki*
+- DOI: [10.3389/fncel.2024.1479579](https://doi.org/10.3389/fncel.2024.1479579)
+<!--- [Pdf version](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)-->
 
 #### 13) Van Velze et al., *Cell Reports* (2024)
 
