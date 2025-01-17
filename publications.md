@@ -9,7 +9,7 @@ permalink: /publications/
 #### 15) Morabito et al., *BioRXiv* (2025) 
 
 - Title: __A dendritic substrate for temporal diversity of cortical inhibition__
-- Authors: Morabito A*, __Zerlaut Y__*, Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (\*co-first authors)
+- Authors: Morabito A*, __Zerlaut Y__* , Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (* co-first authors)
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
 - DOI: [10.1101/2024.07.09.602783](https://doi.org/10.1101/2024.07.09.602783)
 
