@@ -20,22 +20,19 @@ permalink: /publications/
 
 - Title: **Interneuronal Modulations as a functional switch for cortical computations: Mechanisms and Implication for disease**
 - Authors: __Zerlaut Y.__* & A Tzilivaki*
-- DOI: [10.3389/fncel.2024.1479579](https://doi.org/10.3389/fncel.2024.1479579)
-<!--- [Pdf version](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)-->
+- DOI: [10.3389/fncel.2024.1479579](https://doi.org/10.3389/fncel.2024.1479579) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)
 
 #### 13) Van Velze et al., *Cell Reports* (2024)
 
 - Title: **Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin interneurons during behavioral state transitions**
 - Authors: de Brito Van Velze M, Dhanasobhon D, Martinez M, Morabito A, Berthaux E, Martins Pinho C, __Zerlaut Y.__* & N Rebola*    (<ins>\*co-last authors</ins>)
-- DOI: [10.1016/j.celrep.2024.114197](https://doi.org/10.1016/j.celrep.2024.114197)
-- [Pdf version](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)
+- DOI: [10.1016/j.celrep.2024.114197](https://doi.org/10.1016/j.celrep.2024.114197) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)
  
 #### 12) Lorenzi et al., *PLoS Computational Biology* (2023)
 
 - Title: **A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics**
 - Authors: R M Lorenzi, A Geminiani, **Y Zerlaut**, M De Grazia, Alain Destexhe, C A M Gandini Wheeler-Kingshott, F Palesi, C Casellato, E D’Angelo
-- DOI: [10.1371/journal.pcbi.1011434](https://doi.org/10.1371/journal.pcbi.1011434)
-- [Pdf version](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011434&type=printable)
+- DOI: [10.1371/journal.pcbi.1011434](https://doi.org/10.1371/journal.pcbi.1011434) -- [[ Pdf version]](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011434&type=printable)
 
 #### 11) Zerlaut et al., *eNeuro* (2022)
 
