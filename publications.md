@@ -6,7 +6,17 @@ permalink: /publications/
 
 ## _Preprints_
 
-#### 15) Morabito et al., *BioRXiv* (2025) 
+#### <a name="15"></a> 15) Morabito et al., *BioRXiv* (2025) 
+
+Ref to [15](#15)
+
+Ref to [15](../publications/#15)
+
+Ref to [15](../publications.md/#15)
+
+Ref to [15](../publications#15)
+
+Ref to [15](../publications.md#15)
 
 - Title: __A dendritic substrate for temporal diversity of cortical inhibition__
 - Authors: Morabito A*, __Zerlaut Y__* , Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (* co-first authors)

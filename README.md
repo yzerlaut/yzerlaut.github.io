@@ -13,9 +13,10 @@ Here is a quick overview of the different aspects of our research:
 We work on models of cortical processing at the synaptic, cellular, network and mesoscopic scale. 
 We use analytical approaches together with numerical simulations to study the emergent computational properties of those systems. 
 Various examples of such theoretical modelling work can be found in our [publications list](./publications.md):
-- spiking network models of cortical circuits: Zerlaut et al., 2019, Koukouli et al., 2022, Van Velze et al., 2024, 
-- synaptic/cellular integration model: Morabito et al., 2022, Morabito, Zerlaut et al., ...
-- large scale models: Zerlaut et al., 2018, Lorenzi et al., 2023, ...
+- spiking network dynamics: [15](./publications.md/#15)
+- cortical microcircuits: 
+- synaptic/cellular integration: 
+- large scale models:
 
 ## Data Science 
 
