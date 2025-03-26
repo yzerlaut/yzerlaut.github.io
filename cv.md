@@ -6,64 +6,44 @@ permalink: /cv/
 
 ## Positions
 
-- 2024-now. _Junior Professor in Computational Neuroscience_ @ **Sorbonne Université** 
- 
-    [Faculté de Santé, Sorbonne Université, Paris (France)](https://sante.sorbonne-universite.fr/)
+- 2024-now. _Junior Professor in Computational Neuroscience_ @ **Sorbonne Université**  
+    [Faculté de Santé, Sorbonne Université, Paris (France)](https://sante.sorbonne-universite.fr/)  
+    Institut du Cerveau. Team: [Cellular Mechanisms of Sensory Processing](https://therebolalab.org/)  
 
-    Institut du Cerveau. Team: [Cellular Mechanisms of Sensory Processing](https://therebolalab.org/)
+- 2020-2024. _Post-doctoral fellow_ @ **Institut du Cerveau (ICM)**   
+    Neurophysiology department. Hôpital Pitié-Salpêtrière, Paris (France)  
+    Supervisors: Dr N. Rebola & Dr A. Bacci  
+    *Contextual modulation of cortical computation through interneuronal networks in the mouse visual system*  
 
-- 2020-2024. _Post-doctoral fellow_ @ **Institut du Cerveau (ICM)**
- 
-    Neurophysiology department. Hôpital Pitié-Salpêtrière, Paris (France).
+- 2019-2020. _Post-doctoral fellow_ @ **Centre National de la Recherche Scientifique (CNRS)**   
+    Neuroinformatics group. Gif sur Yvette (France)   
+    Supervisor: Dr. Andrew Davison   
+    *Model sharing and data management in computational neuroscience through the [Ebrains platform](https://ebrains.eu)*   
 
-    Supervisors: Dr N. Rebola & Dr A. Bacci
+- 2016-2019. _Post-doctoral fellow_. **Italian Institute of Technology**   
+    Neural Coding laboratory. Rovereto & Genova (Italy)   
+    Supervisors: Dr. Tommaso Fellin and Dr. Stefano Panzeri  
+    *Modeling and analysis Network States during Wakefulness in Sensory Cortices*  
 
-    *Contextual modulation of cortical computation through interneuronal networks in the mouse visual system*
-
-- 2019-2020. _Post-doctoral fellow_ @ **Centre National de la Recherche Scientifique (CNRS)**
-
-    Neuroinformatics group. Gif sur Yvette (France) 
-
-    Supervisor: Dr. Andrew Davison
-
-    *Model sharing and data management in computational neuroscience through the [Ebrains platform](https://ebrains.eu)*
-
-- 2016-2019. _Post-doctoral fellow_. **Italian Institute of Technology**
-
-    Neural Coding laboratory. Rovereto & Genova (Italy)
-
-    Supervisors: Dr. Tommaso Fellin and Dr. Stefano Panzeri
-
-    *Modeling and analysis Network States during Wakefulness in Sensory Cortices*
-
-- 2012-2016. _Graduate student_. **Centre National de la Recherche Scientifique (CNRS)**
- 
-    Computational Neuroscience laboratory. Gif sur Yvette (France). 
-
-    Supervisors: Dr. Alain Destexhe and Dr. Gilles Ouanounou
-
-    *Biophysical and Circuit Properties underlying Population Dynamics in Neocortex*
+- 2012-2016. _Graduate student_. **Centre National de la Recherche Scientifique (CNRS)**   
+    Computational Neuroscience laboratory. Gif sur Yvette (France)  
+    Supervisors: Dr. Alain Destexhe and Dr. Gilles Ouanounou   
+    *Biophysical and Circuit Properties underlying Population Dynamics in Neocortex*   
 
 ## Education
 
-- 2016: **Ph.D. Neuroscience**. Sorbonne Université (Paris, France)
-
+- 2016: **Ph.D. Neuroscience**. Sorbonne Université (Paris, France)   
     Speciality: *Computational Neuroscience*, *Biophysics* [(thesis)](https://tel.archives-ouvertes.fr/tel-01531824/)
 
-- 2012: **M.Sc. Cognitive Science**. EHESS Paris, ENS Paris, Université Paris V
-
+- 2012: **M.Sc. Cognitive Science**. EHESS Paris, ENS Paris, Université Paris V   
     Specialty: *Mathematical and Physical modeling*
 
-- 2011: **M.Sc. Complex Systems Physics**. Sorbonne Universités (Paris, France)
- 
-    Specialty: *Modelling, Statistics and Algorithm in Out-of-Equilibrium Systems* 
+- 2011: **M.Sc. Complex Systems Physics**. Sorbonne Universités (Paris, France)   
+    Specialty: *Modelling, Statistics and Algorithm in Out-of-Equilibrium Systems*  
+    2010: Master 1 at Physics department of [Ludwig Maximilian University](https://www.lmu.de/en/), Munich   
 
-    2010: Master 1 at Physics department of [Ludwig Maximilian University](https://www.lmu.de/en/), Munich
-
-- 2009: **B.Sc. Physics**. Université Paris-Sud (Orsay, France).
-
+- 2009: **B.Sc. Physics**. Université Paris-Sud (Orsay, France)  
     Specialty: Fundamental Physics 
-
     <!--Thesis: “(e,2e) and (e,3-1e) ionization experiments of noble gas and small molecules” Advisor: Dr. Azzedine Lahmam-Bennani (LCAM, Orsay)-->
 
 - 2006-2008: Classes préparatoires PCSI-PC*, Lycée Georges Clémenceau, Nantes
@@ -84,12 +64,10 @@ permalink: /cv/
 
 ## Invited talks
 
-- 5th annual Human Brain Project summit. Glasgow 2017. 
- 
+- 5th annual Human Brain Project summit. Glasgow 2017.  
   Title: “Modelling the Diversity of Waking States in Neocortex”.
 
-- Sleep, Slow Wave and Aging. Paris 2018
-
+- Sleep, Slow Wave and Aging. Paris 2018  
   Title: "Network States in Sensory Cortices: Characterisation, Modelling and Function"
 
 ## Conference Abstracts

@@ -2,7 +2,7 @@
 
 **Welcome to the lab webpage !**
 
-The lab was opened thanks to the _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/). We perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
+The lab was opened thanks to a _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/). We perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
 
 Our laboratory if part of the [Rebola group](https://therebolalab.org) and we closely collaborate with the [Bacci group](https://baccilab.org). Together, we combine neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) with computational approaches to study cerebral processing and its dysfunctions.
 
@@ -12,11 +12,11 @@ Here is a quick overview of the different aspects of our research:
 
 We work on models of cortical processing at the synaptic, cellular, network and mesoscopic scale. 
 We use analytical approaches together with numerical simulations to study the emergent computational properties of those systems. 
-Various examples of such theoretical modelling work can be found in our [publications list](./publications.md):
-- spiking network dynamics: [15](./publications.md/#15)
-- cortical microcircuits: 
-- synaptic/cellular integration: 
-- large scale models:
+Examples of such theoretical modelling work can be found in our [publications list](./publications.md):
+- spiking network dynamics: [7](./publications.md/#7), [8](./publications.md/#8), [5](./publications.md/#5), [4](./publications.md/#4)
+- cortical microcircuits: [10](./publications.md/#10), [13](./publications.md/#13), [14](./publications.md/#14), 
+- synaptic/cellular integration: [15](./publications.md/#15), [9](./publications.md/#9), [3](./publications.md/#3), [2](./publications.md/#2), 
+- large scale models: [5](./publications.md/#5), [12](./publications.md/#12), [6](./publications.md/#6)
 
 ## Data Science 
 
@@ -42,7 +42,6 @@ We do data-intensive research. Our experimental approach consists in recording n
 
 Our original experimental approach and our data management strategy requires the development of custom softwares.
 
-I am the lead developer of [`physion`](https://github.com/yzerlaut/physion): a full software suite for neurophysiology in the context of visual processing in behaving mice. I am a contributor to [`fairgraph`](https://fairgraph.readthedocs.io) a high-level API for metadata management in neuroscientific research. I developed several `python` packages for Data Science applications in the context of neurophysiology.
+We develop [`physion`](https://github.com/yzerlaut/physion): a full software suite for neurophysiology in the context of visual processing in behaving mice. We also contributed to [`fairgraph`](https://fairgraph.readthedocs.io) a high-level API for metadata management in neuroscientific research. We develop several `python` packages for Data Science applications in the context of neurophysiology.
 
-My full software production is available on my Github profile: [github.com/yzerlaut](https://github.com/yzerlaut)
-
+Our full software production is available on the Github profile: [github.com/yzerlaut](https://github.com/yzerlaut)
