@@ -16,11 +16,13 @@ Here is a quick overview of the different aspects of our research:
 
 We work on models of cortical processing at the synaptic, cellular, network and mesoscopic scale. 
 We use analytical approaches together with numerical simulations to study the emergent computational properties of those systems. 
-Examples of such theoretical modelling work can be found in our [publications list](./publications.md):
+We give below a few examples of our theoretical work at different levels:
 - spiking network dynamics: [7](./publications.md/#7), [8](./publications.md/#8), [5](./publications.md/#5), [4](./publications.md/#4)
 - cortical microcircuits: [10](./publications.md/#10), [13](./publications.md/#13), [14](./publications.md/#14), 
 - synaptic/cellular integration: [15](./publications.md/#15), [9](./publications.md/#9), [3](./publications.md/#3), [2](./publications.md/#2), 
 - large scale models: [5](./publications.md/#5), [12](./publications.md/#12), [6](./publications.md/#6)
+
+Check our [publication list](./publications.md) for more details.
 
 ## Data Science 
 
