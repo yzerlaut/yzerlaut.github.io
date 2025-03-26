@@ -1,4 +1,5 @@
-<div><img src="../docs/profile.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
+<!--<div><img src="../docs/profile.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>-->
+<div><img src="../docs/banner.svg" width="100%"></div>
 
 **Welcome to the lab webpage !**
 
