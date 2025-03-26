@@ -5,7 +5,7 @@
 I hold the _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/). With my [team members](./members.md), we perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
 
 Our group if part of the [Rebola lab](https://therebolalab.org) and we closely collaborate with the [Bacci låb](https://baccilab.org). Together, we combine neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) with computational approaches to study cerebral processing and its dysfunctions.  
-Check [our openings](./openings.md) and do not hesitate to [mailto:yann.zerlaut@icm-institute.org](contact us) if you are interested by our work.
+Check [our openings](./openings.md) and do not hesitate to [reach out](mailto:yann.zerlaut@icm-institute.org) if you are interested in our work.
 
 Here is a quick overview of the different aspects of our research:
 
