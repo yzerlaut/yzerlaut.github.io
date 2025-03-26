@@ -6,7 +6,7 @@ permalink: /openings/
 
 In the lab we pursue scientific excellence in a friendly and highly collaborative atmosphere. We are always looking for talented people to join the team ! 
 
-In addition to the current openings, we might have open positions for Master students, PhD students and Postdoctoral researchers depending on lab space and current funding. Do not hesitate to contact us at [yann[dot]zerlaut[at]icm-institute[dot]org](mailto:yann.zerlaut@icm-institute.org), attach your CV and give us a short explanation on your interest in joining the lab.
+In addition to the current openings, we might have open positions for Master students, PhD students and Postdoctoral researchers depending on lab space and current funding. Do not hesitate to [contact us (yann.zerlaut@icm-institute.org)](mailto:yann.zerlaut@icm-institute.org), attach your CV and give us a short explanation on your interest in joining the lab.
 
 ## Current Openings
 
@@ -28,7 +28,7 @@ Depending on her/his interest, the candidate could also benefit from our [mixed 
 
 #### _Profile_
 
-Graduate students or postdoctoral fellows with background in either computational neuroscience, physics, applied mathematics or quantitative/theoretical biology are primarily encouraged to apply. But highly motivated candidates of all profiles with will be considered.
+Graduate students or postdoctoral fellows with background in either computational neuroscience, physics, applied mathematics or quantitative/theoretical biology are primarily encouraged to apply. But highly motivated candidates of all profiles will be considered.
 
 #### _References_
 
