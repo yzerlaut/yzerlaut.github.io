@@ -2,27 +2,27 @@
 
 **Welcome to the lab webpage !**
 
-I am a _Junior Professor in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/). We perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
+The lab was opened thanks to the _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/). We perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
 
-Our laboratory if part of the [Rebola group](https://therebolalab.org) and we closely collaborate with the [Bacci group](https://baccilab.org)). Together, we combine neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) with computational approaches to study cerebral processing and its dysfunctions.
+Our laboratory if part of the [Rebola group](https://therebolalab.org) and we closely collaborate with the [Bacci group](https://baccilab.org). Together, we combine neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) with computational approaches to study cerebral processing and its dysfunctions.
 
 Here is a quick overview of the different aspects of our research:
 
 ## Theoretical Neuroscience
 
 We work on models of cortical processing at the synaptic, cellular, network and mesoscopic scale. 
-We use analytical approaches together with numerical simulations to study the emergent properties of those systems. 
-Various examples of such theoretical modelling work can be found in our [publications list](./publications.md).
-- large scale models
-- microcircuit models
-- synaptic scale
+We use analytical approaches together with numerical simulations to study the emergent computational properties of those systems. 
+Various examples of such theoretical modelling work can be found in our [publications list](./publications.md):
+- spiking network models of cortical circuits: Zerlaut et al., 2019, Koukouli et al., 2022, Van Velze et al., 2024, 
+- synaptic/cellular integration model: Morabito et al., 2022, Morabito, Zerlaut et al., ...
+- large scale models: Zerlaut et al., 2018, Lorenzi et al., 2023, ...
 
 ## Data Science 
 
 Our research strongly relies on the use of machine learning to analyze and interpret neurophysiological data. 
 
 We design and implement multivariate models of neural activity from behavioral and sensory features (notably Generalized Linear Models). We use those models to (1) **extract functional principles in the healthy brain** and (2) **characterize functional deficits in disease models of brain activity**.
-We also use various machine learning tools such as Artificial Neural Networks (ANNs) and dimensionality reduction techniques in the preprocessing of our neurophysiological data.
+We also use various machine learning tools such as Artificial Neural Networks (ANNs) and dimensionality reduction techniques in the preprocessing of our neurophysiological and behavioral data.
 
 ## Open Science
 
