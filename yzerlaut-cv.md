@@ -1,7 +1,7 @@
 ---
 layout: page
-title: YZ-CV
-permalink: /cv/
+title: CV
+permalink: /yzerlaut-cv/
 ---
 
 ## Positions
