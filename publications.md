@@ -4,12 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+The lab publishes [preprints](./publications/#Preprints), [peer-reviewed articles](./publications/#Peer-Reviewer_Articles), [experimental datasets](./publications/#Experimental_Datasets) and [theoretical models](./publications/#Theoretical_Models), listed below:
+
 ## _Preprints_
 
 #### <a name="15"></a> 15) Morabito et al., *BioRXiv* (2025) 
 
 - Title: __A dendritic substrate for temporal diversity of cortical inhibition__
-- Authors: Morabito A*, __Zerlaut Y__* , Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (* co-first authors)
+- Authors: Morabito A\*, **Zerlaut Y**\* , Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (* co-first authors)
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
 - DOI: [10.1101/2024.07.09.602783](https://doi.org/10.1101/2024.07.09.602783)
 
@@ -30,7 +32,7 @@ permalink: /publications/
 #### <a name="12"></a> 12) Lorenzi et al., *PLoS Computational Biology* (2023)
 
 - Title: __A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics__
-- Authors: R M Lorenzi, A Geminiani, __Y Zerlaut__, M De Grazia, Alain Destexhe, C A M Gandini Wheeler-Kingshott, F Palesi, C Casellato, E D’Angelo
+- Authors: R M Lorenzi, A Geminiani, __Y Zerlaut__, M De Grazia, A Destexhe, C A M Gandini Wheeler-Kingshott, F Palesi, C Casellato, E D’Angelo
 - DOI: [10.1371/journal.pcbi.1011434](https://doi.org/10.1371/journal.pcbi.1011434) -- [[Pdf version]](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011434&type=printable)
 
 #### <a name="11"></a> 11) Zerlaut et al., *eNeuro* (2022)
@@ -102,3 +104,21 @@ permalink: /publications/
 - Title: __Gain Modulation of Synaptic Inputs by Network State in Auditory Cortex In Vivo__
 - Authors: Reig R, __Zerlaut Y__, Vergara R, Destexhe A and M.V Sanchez-Vives  
 - DOI: [10.1523/JNEUROSCI.2004-14.2015](https://doi.org/10.1523/JNEUROSCI.2004-14.2015) -- [[Pdf version]](https://www.jneurosci.org/content/jneuro/35/6/2689.full.pdf)
+
+## Experimental Datasets
+
+See our [Dataset list on the EBrains platform](https://search.kg.ebrains.eu/?category=Dataset&q=Zerlaut%20Y):
+
+#### 2) [NMDA-Receptor component to visually-evoked activity in somatostatin-positive interneurons](https://search.kg.ebrains.eu/?category=Dataset&q=Zerlaut%20Y#b8857578-7cd0-44a9-8790-95655801ffe3)
+
+#### 1) [Input Impedance Recordings in Neocortical Pyramidal cells](https://search.kg.ebrains.eu/?category=Dataset&q=Zerlaut%20Y#5a95ceb4-e303-42e3-9558-83b9ccb45976)
+
+## Theoretical Models
+
+See our [Released Model list on the EBrains platform](https://search.kg.ebrains.eu/?category=Model&q=Zerlaut%20Y)
+
+#### 3) [Network model of spontaneous activity in cortex](https://search.kg.ebrains.eu/?category=Model&q=Zerlaut%20Y#cd7f3ec5-3241-45e5-a658-a61b56dc5bc9)
+
+#### 2) [Rall Morphology Model for Layer 5 Pyramidal Cells in Mouse V1](https://search.kg.ebrains.eu/?category=Model&q=Zerlaut%20Y#a8b0d44a-267d-4cd5-b205-eee5c052603f)
+
+#### 1) [Mean-field Model of AdEx networks](https://search.kg.ebrains.eu/?category=Model&q=Zerlaut%20Y#bc3b915f-1ef4-43bc-890b-8b5098d080da)
