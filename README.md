@@ -4,7 +4,8 @@
 
 The lab was established following the creation of a _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/).
 We perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *mechanisms and principles of information processing in cortical networks* using theoretical and computational approaches.   
-Our group is part of the [Rebola team](https://therebolalab.org) and we closely collaborate with the [Bacci team](https://baccilab.org). Together, we combine expertises in neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) with our computational approaches to study cerebral processing and its dysfunctions.  
+Our group is part of the [Rebola team](https://therebolalab.org) and we closely collaborate with the [Bacci team](https://baccilab.org). 
+Joining forces, we combine our experimental approaches with their expertise in neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) to study cerebral processing and its dysfunctions.  
 
 Check out our [openings](./openings.md) and do not hesitate to [contact us](mailto:yann.zerlaut@icm-institute.org) if you are interested in our work.
 
@@ -38,7 +39,7 @@ Being strongly convinced that **open data and open source software is a major dr
 In the era of data-intensive research, this however comes at the cost of important efforts during the research process. 
 Data needs to be [standardised](https://www.nature.com/articles/sdata201618) and softwares need to be shared appropriately. 
 We do spend a lot of energy in the design and implementation of such processes (see [Softwares](./softwares)).
-All of the code and data of our research is made to be directly uploaded to modern research material platforms (such as [Ebrains](https://ebrains.eu)) independently from manuscript publication in scientific journals.
+The results of our research are made to be directly uploaded to modern research material platforms (such as [Ebrains](https://ebrains.eu)) independently from manuscript publication in scientific journals. See our released [Datasets](./publications/#datasets) and [Models](./publications/#models).
 
 ## Data Engineering
 
@@ -51,4 +52,3 @@ Our original experimental approach and our data management strategy requires the
 We develop [`physion`](https://github.com/yzerlaut/physion): a full software suite for neurophysiology in the context of visual processing in behaving mice. We also contributed to [`fairgraph`](https://fairgraph.readthedocs.io) a high-level API for metadata management in neuroscientific research. We develop several `python` packages for Data Science applications in the context of neurophysiology.
 
 Our full software production is available on the Github profile: [github.com/yzerlaut](https://github.com/yzerlaut)
-
