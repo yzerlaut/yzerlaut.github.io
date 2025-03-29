@@ -1,10 +1,9 @@
 **Welcome to the lab webpage !**
 
-<div><img src="../docs/affiliation.svg" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
+<div><img src="../docs/affiliation.svg" alt="profile" width="40%" align="left" style="margin-right: 10px"></div>
 
-The lab was established following the creation of a _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/).  
-With the [group members](./members.md), we perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
-
+The lab was established following the creation of a _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/).
+We perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *mechanisms and principles of information processing in cortical networks* using theoretical and computational approaches.   
 Our group is part of the [Rebola team](https://therebolalab.org) and we closely collaborate with the [Bacci team](https://baccilab.org). Together, we combine expertises in neurophysiological recordings (opto- and electrophysiology) and experimental manipulations (optogenetics, pharmacology, knockouts, ...) with our computational approaches to study cerebral processing and its dysfunctions.  
 
 Check out our [openings](./openings.md) and do not hesitate to [contact us](mailto:yann.zerlaut@icm-institute.org) if you are interested in our work.
