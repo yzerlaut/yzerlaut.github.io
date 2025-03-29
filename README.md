@@ -39,7 +39,7 @@ Being strongly convinced that **open data and open source software is a major dr
 In the era of data-intensive research, this however comes at the cost of important efforts during the research process. 
 Data needs to be [standardised](https://www.nature.com/articles/sdata201618) and softwares need to be shared appropriately. 
 We do spend a lot of energy in the design and implementation of such processes (see [Softwares](./softwares)).
-The results of our research are made to be directly uploaded to modern research material platforms (such as [Ebrains](https://ebrains.eu)) independently from manuscript publication in scientific journals. See our released [Datasets](./publications/#datasets) and [Models](./publications/#models).
+The results of our research are made to be directly uploaded to modern research material platforms (such as [Ebrains](https://ebrains.eu)) independently from manuscript publication in scientific journals. See our released [Datasets](./publications.md/#datasets) and [Models](./publications.md/#models).
 
 ## Data Engineering
 

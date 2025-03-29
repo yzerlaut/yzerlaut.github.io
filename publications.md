@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-The lab publishes [preprints](./publications/#preprints), [peer-reviewed articles](./publications/#papers), [experimental datasets](./publications/#datasets) and [theoretical models](./publications/#models), listed below:
+The lab publishes [preprints](./publications.md/#preprints), [peer-reviewed articles](./publications.md/#papers), [experimental datasets](./publications.md/#datasets) and [theoretical models](./publications.md/#models), listed below:
 
 ## <a name="preprints"></a> _Preprints_
 
