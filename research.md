@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /projects/
+permalink: /research/
 ---
 
 ## *Flexible Computation in Cortical Networks*

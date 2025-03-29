@@ -1,5 +1,7 @@
 **Welcome to the lab webpage !**
 
+<div><img src="../docs/affiliation.svg" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
+
 The lab was established following the creation of a _Junior Professor Chair in Computational Neuroscience_ at [Sorbonne Université](https://www.sorbonne-universite.fr/).  
 With the [group members](./members.md), we perform our research at the [Paris Brain Institute (ICM)](https://institutducerveau-icm.org/) where we study the *principles of information processing in cortical networks* using theoretical and computational approaches. 
 
