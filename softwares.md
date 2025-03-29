@@ -14,7 +14,7 @@ See the documentation at: [github.com/yzerlaut/physion](https://github.com/yzerl
 
 ### fairgraph
 
-We contributed to [`fairgraph`](https://github.com/yzerlaut/fairgraph), a high-level python API for the Ebrains knowledge graph: a metadata management system for neuroscientific data, and we 
+We contributed to [`fairgraph`](https://github.com/yzerlaut/fairgraph), a high-level python API for the Ebrains knowledge graph (KG). The Ebrains KG is a metadata management system allowing the sharing and re-use of neuroscientific data.
 
 See the documentation at: [https://fairgraph.readthedocs.io](https://fairgraph.readthedocs.io)
 

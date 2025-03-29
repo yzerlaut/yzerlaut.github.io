@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-The lab publishes [preprints](./publications/#Preprints), [peer-reviewed articles](./publications/#Peer-Reviewer_Articles), [experimental datasets](./publications/#Experimental_Datasets) and [theoretical models](./publications/#Theoretical_Models), listed below:
+The lab publishes [preprints](./publications/#preprints), [peer-reviewed articles](./publications/#papers), [experimental datasets](./publications/#datasets) and [theoretical models](./publications/#models), listed below:
 
-## _Preprints_
+## <a name="preprints"></a> _Preprints_
 
 #### <a name="15"></a> 15) Morabito et al., *BioRXiv* (2025) 
 
@@ -15,7 +15,7 @@ The lab publishes [preprints](./publications/#Preprints), [peer-reviewed article
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
 - DOI: [10.1101/2024.07.09.602783](https://doi.org/10.1101/2024.07.09.602783)
 
-## Peer-Reviewed Articles
+## <a name="papers"></a> Peer-Reviewed Articles
 
 #### <a name="14"></a> 14) Zerlaut & Tzilivaki, *Front. Cellular Neuroscience* (2025)
 
@@ -105,7 +105,7 @@ The lab publishes [preprints](./publications/#Preprints), [peer-reviewed article
 - Authors: Reig R, __Zerlaut Y__, Vergara R, Destexhe A and M.V Sanchez-Vives  
 - DOI: [10.1523/JNEUROSCI.2004-14.2015](https://doi.org/10.1523/JNEUROSCI.2004-14.2015) -- [[Pdf version]](https://www.jneurosci.org/content/jneuro/35/6/2689.full.pdf)
 
-## Experimental Datasets
+## <a name="datasets"></a> Experimental Datasets
 
 See our [Dataset list on the EBrains platform](https://search.kg.ebrains.eu/?category=Dataset&q=Zerlaut%20Y):
 
@@ -113,7 +113,7 @@ See our [Dataset list on the EBrains platform](https://search.kg.ebrains.eu/?cat
 
 #### 1) [Input Impedance Recordings in Neocortical Pyramidal cells](https://search.kg.ebrains.eu/?category=Dataset&q=Zerlaut%20Y#5a95ceb4-e303-42e3-9558-83b9ccb45976)
 
-## Theoretical Models
+## <a name="models"></a> Theoretical Models
 
 See our [Released Model list on the EBrains platform](https://search.kg.ebrains.eu/?category=Model&q=Zerlaut%20Y)
 

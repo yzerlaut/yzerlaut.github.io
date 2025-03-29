@@ -4,6 +4,10 @@ title: CV
 permalink: /yzerlaut-cv/
 ---
 
+Yann Zerlaut   
+[Google Scholar](https://scholar.google.com/citations?user=ISDtiagAAAAJ&hl=en) -- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Zerlaut%20Y%20%5Bauthor%5D) -- [LinkedIn](https://www.linkedin.com/in/yzerlaut/)  
+
+
 ## Positions
 
 - 2024-now. _Junior Professor in Computational Neuroscience_. **Sorbonne Université**  
