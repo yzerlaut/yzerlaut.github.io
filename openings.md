@@ -6,7 +6,7 @@ permalink: /openings/
 
 In the lab we pursue scientific excellence in a friendly and highly collaborative atmosphere. We are always looking for talented people to join the team ! 
 
-In addition to the current openings, we might have open positions for Master students, PhD students and Postdoctoral researchers depending on lab space and current funding. Do not hesitate to [contact us (yann.zerlaut@icm-institute.org)](mailto:yann.zerlaut@icm-institute.org), attach your CV and give us a short explanation on your interest in joining the lab.
+In addition to the current openings, we might have open positions for Master students, PhD students and Postdoctoral researchers depending on lab space and current funding. Do not hesitate to [contact us](mailto:yann.zerlaut@icm-institute.org), attach your CV and give us a short explanation on your interest in joining the lab.
 
 ## Current Openings
 
