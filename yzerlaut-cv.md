@@ -11,7 +11,7 @@ Yann Zerlaut
 ## Positions
 
 - 2024-now. _Junior Professor in Computational Neuroscience_. **Sorbonne Université**  
-    [Faculté de Santé, Sorbonne Université, Paris (France)](https://sante.sorbonne-universite.fr/)  
+    [Faculté de Santé, Paris (France)](https://sante.sorbonne-universite.fr/)  
     Institut du Cerveau. Team: [Cellular Mechanisms of Sensory Processing](https://therebolalab.org/)  
 
 - 2020-2024. _Post-doctoral fellow_. **Institut du Cerveau**   
@@ -22,7 +22,7 @@ Yann Zerlaut
 - 2019-2020. _Post-doctoral fellow_. **Centre National de la Recherche Scientifique**   
     Neuroinformatics group. Gif sur Yvette (France)   
     Supervisor: Dr. Andrew Davison   
-    *Model sharing and data management in computational neuroscience through the [Ebrains platform](https://ebrains.eu)*   
+    *Model sharing and data management in neuroscience through the [Ebrains platform](https://ebrains.eu)*   
 
 - 2016-2019. _Post-doctoral fellow_. **Italian Institute of Technology**   
     Neural Coding laboratory. Rovereto & Genova (Italy)   
