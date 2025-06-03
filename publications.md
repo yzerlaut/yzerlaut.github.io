@@ -4,18 +4,19 @@ title: Publications
 permalink: /publications/
 ---
 
-The lab publishes [preprints](./publications.md/#preprints), [peer-reviewed articles](./publications.md/#papers), [experimental datasets](./publications.md/#datasets) and [theoretical models](./publications.md/#models), listed below:
+The lab publishes [peer-reviewed articles](./publications.md/#papers), [experimental datasets](./publications.md/#datasets) and [theoretical models](./publications.md/#models), listed below:
 
-## <a name="preprints"></a> _Preprints_
-
-#### <a name="15"></a> 15) Morabito et al., *BioRXiv* (2025) 
-
-- Title: __A dendritic substrate for temporal diversity of cortical inhibition__
-- Authors: Morabito A\*, **Zerlaut Y**\* , Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (* co-first authors)
-- Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
-- DOI: [10.1101/2024.07.09.602783](https://doi.org/10.1101/2024.07.09.602783)
+<!--[preprints](./publications.md/#preprints),-->
+<!-- ## <a name="preprints"></a> _Preprints_-->
 
 ## <a name="papers"></a> Peer-Reviewed Articles
+
+#### <a name="15"></a> 15) Morabito et al., *Neuron* (in press) 
+
+- Title: __Distinct dendritic integration strategies control dynamics of inhibition in the neocortex__
+- Authors: Morabito A\*, **Zerlaut Y**\* , Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (* co-first authors)
+- Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
+- (Preprint) DOI: [10.1101/2024.07.09.602783](https://doi.org/10.1101/2024.07.09.602783)
 
 #### <a name="14"></a> 14) Zerlaut & Tzilivaki, *Front. Cellular Neuroscience* (2025)
 
