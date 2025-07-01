@@ -11,12 +11,12 @@ The lab publishes [peer-reviewed articles](./publications.md/#papers), [experime
 
 ## <a name="papers"></a> Peer-Reviewed Articles
 
-#### <a name="15"></a> 15) Morabito et al., *Neuron* (in press) 
+#### <a name="15"></a> 15) Morabito et al., *Neuron* (2025) 
 
 - Title: __Distinct dendritic integration strategies control dynamics of inhibition in the neocortex__
 - Authors: Morabito A\*, **Zerlaut Y**\* , Dhanasobhon D, Berthaux E, Moneron G, Cathala , Lourenco J, Bacci A, Digregorio D & N Rebola      (* co-first authors)
 - Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) In vivo imaging analysis: [github.com/yzerlaut/pv-sst-dendrites](https://github.com/yzerlaut/pv-sst-dendrites)
-- (Preprint) DOI: [10.1101/2024.07.09.602783](https://doi.org/10.1101/2024.07.09.602783)
+- DOI: [10.1016/j.neuron.2025.05.029](https://doi.org/10.1016/j.neuron.2025.05.029) -- [[Pdf version]](https://www.sciencedirect.com/science/article/pii/S0896627325004295/pdfft?md5=be651025975a8645d689cc705f409fb4&pid=1-s2.0-S0896627325004295-main.pdf)
 
 #### <a name="14"></a> 14) Zerlaut & Tzilivaki, *Front. Cellular Neuroscience* (2025)
 
