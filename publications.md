@@ -23,92 +23,94 @@ Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) I
 #### <a name="14"></a> 14) ***Interneuronal Modulations as a functional switch for cortical computations: Mechanisms and Implication for disease***
 
 Zerlaut Y & A Tzilivaki     
-*Front. Cellular Neuroscience* (2025)   
+*Frontiers in Cellular Neuroscience* 18 (2025): 1479579.    
 DOI: [10.3389/fncel.2024.1479579](https://doi.org/10.3389/fncel.2024.1479579) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)
 
 #### <a name="13"></a> 13) ***Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin interneurons during behavioral state transitions***
 
 de Brito Van Velze M, Dhanasobhon D, Martinez M, Morabito A, Berthaux E, Martins Pinho C, Zerlaut Y* & N Rebola*    (<ins>\*co-last authors</ins>)  
-*Cell Reports* (2024)   
+*Cell Reports* 43.5 (2024).     
 DOI: [10.1016/j.celrep.2024.114197](https://doi.org/10.1016/j.celrep.2024.114197) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)     
  
-#### <a name="12"></a> 
+#### <a name="12"></a> ***A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics***
 
-*PLoS Computational Biology* (2023)
+R M Lorenzi, A Geminiani, Y Zerlaut, M De Grazia, A Destexhe, C A M Gandini Wheeler-Kingshott, F Palesi, C Casellato, E D’Angelo   
+*PLOS Computational Biology* 19.9 (2023): e1011434.     
+DOI: [10.1371/journal.pcbi.1011434](https://doi.org/10.1371/journal.pcbi.1011434) -- [[Pdf version]](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011434&type=printable)    
 
-***A multi-layer mean-field model of the cerebellum embedding microstructure and population-specific dynamics***
-Authors: R M Lorenzi, A Geminiani, Y Zerlaut, M De Grazia, A Destexhe, C A M Gandini Wheeler-Kingshott, F Palesi, C Casellato, E D’Angelo
-DOI: [10.1371/journal.pcbi.1011434](https://doi.org/10.1371/journal.pcbi.1011434) -- [[Pdf version]](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011434&type=printable)
+#### <a name="11"></a> 11) ***Network States Classification based on Local Field Potential Recordings in the Awake Mouse Neocortex***
 
-#### <a name="11"></a> 11) Zerlaut et al., *eNeuro* (2022)
-
-***Network States Classification based on Local Field Potential Recordings in the Awake Mouse Neocortex***
-Authors: Zerlaut Y, Zucca S, Panzeri S & T Fellin 
-Github repository for the whole study: [github.com/yzerlaut/Network_State_Index](https://github.com/yzerlaut/Network_State_Index)
+Zerlaut Y, Zucca S, Panzeri S & T Fellin 
+*Eneuro* 9.4 (2022)     
 DOI: [10.1523/ENEURO.0073-22.2022](https://doi.org/10.1523/ENEURO.0073-22.2022) -- [[Pdf version]](https://www.eneuro.org/content/eneuro/9/4/ENEURO.0073-22.2022.full.pdf)
 
-#### <a name="10"></a> 10) Koukouli et al., *Cell Reports* (2022)
+Github repository for the whole study: [github.com/yzerlaut/Network_State_Index](https://github.com/yzerlaut/Network_State_Index)
 
-***Visual-area-specific tonic modulation of GABA release by endocannabinoids sets the activity and coordination of neocortical principal neurons***
-Authors: Koukouli F, Montmerle M, Aguirre A, De Brito Van Velze M, Peixoto J, Choudhary V, Varilh M, Julio-Kalajzic F, Allene C, Mendéz P, Zerlaut Y., Marsicano G, Schlüter O.M, Rebola N, Bacci A & J Lourenço
+#### <a name="10"></a> 10) ***Visual-area-specific tonic modulation of GABA release by endocannabinoids sets the activity and coordination of neocortical principal neurons***
+
+Koukouli F, Montmerle M, Aguirre A, De Brito Van Velze M, Peixoto J, Choudhary V, Varilh M, Julio-Kalajzic F, Allene C, Mendéz P, Zerlaut Y., Marsicano G, Schlüter O.M, Rebola N, Bacci A & J Lourenço     
+*Cell Reports* 40.8 (2022).     
+DOI: [10.1016/j.celrep.2022.111202](https://doi.org/10.1016/j.celrep.2022.111202)  -- [[Pdf version]](https://hal.sorbonne-universite.fr/hal-03777453/document)     
+
 Github repository for the computational model: [github.com/yzerlaut/CB1_ntwk_modeling](https://github.com/yzerlaut/CB1_ntwk_modeling)
-DOI: [10.1016/j.celrep.2022.111202](https://doi.org/10.1016/j.celrep.2022.111202)  -- [[Pdf version]](https://hal.sorbonne-universite.fr/hal-03777453/document)
 
-#### <a name="9"></a> 9) Morabito et al., *Cell Reports* (2022)
+#### <a name="9"></a> 9) ***Activity-dependent modulation of NMDA receptors by endogenous zinc shapes dendritic function in cortical neurons***
 
-Title : ***Activity-dependent modulation of NMDA receptors by endogenous zinc shapes dendritic function in cortical neurons***
-Authors: Morabito Y, Zerlaut Y, Serraz B, Sala R, Paoletti P & N Rebola
+Morabito Y, Zerlaut Y, Serraz B, Sala R, Paoletti P & N Rebola  
+*Cell Reports* 38.8 (2022).     
+DOI: [10.1016/j.celrep.2022.110415](https://doi.org/10.1016/j.celrep.2022.110415) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2822%2900139-5)     
+
 Github repository for the computational model: [github.com/yzerlaut/zinc-NMDA-modulation](https://github.com/yzerlaut/zinc-NMDA-modulation)
-DOI: [10.1016/j.celrep.2022.110415](https://doi.org/10.1016/j.celrep.2022.110415) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2822%2900139-5)
 
-#### <a name="8"></a> 8) Carlu et al., Journal of Neurophysiology (2019)
+#### <a name="8"></a> 8) ***A mean-field approach to the dynamics of networks of complex neurons, from nonlinear Integrate-and-Fire to Hodgkin–Huxley models***
 
-***A mean-field approach to the dynamics of networks of complex neurons, from nonlinear Integrate-and-Fire to Hodgkin–Huxley models***
-Authors: M Carlu, O Chehab, L Dalla Porta, D Depannemaecker, C Héricé, M Jedynak, E Köksal Ersöz, P Muratore, S Souihel, C Capone, Y Zerlaut, A Destexhe, M Di Volo
+M Carlu, O Chehab, L Dalla Porta, D Depannemaecker, C Héricé, M Jedynak, E Köksal Ersöz, P Muratore, S Souihel, C Capone, Y Zerlaut, A Destexhe, M Di Volo  
+*Journal of Neurophysiology* 123.3 (2020): 1042-1051.     
 DOI: [10.1152/jn.00399.2019](https://doi.org/10.1152/jn.00399.2019) -- [[Pdf version]](https://journals.physiology.org/doi/epdf/10.1152/jn.00399.2019)
 
-#### <a name="7"></a> 7) Zerlaut et al., *Cell Reports* (2019)
+#### <a name="7"></a> 7) ***The Spectrum of Asynchronous Dynamics in Spiking Networks as a Model for the Diversity of Non-Rhythmic Waking States in Neocortex"***
 
-***The Spectrum of Asynchronous Dynamics in Spiking Networks as a Model for the Diversity of Non-Rhythmic Waking States in Neocortex"***
-Authors: Zerlaut Y*, Zucca S.*, Panzeri S & T Fellin     \*co-first authors
-Code reproducing the results as a  [Jupyter Notebook](https://github.com/yzerlaut/notebook_papers/blob/master/The_Spectrum_of_Asynch_Dynamics_2018.ipynb)
+Zerlaut Y*, Zucca S.*, Panzeri S & T Fellin     \*co-first authors  
+*Cell Reports* 27.4 (2019): 1119-1132.    
 DOI: [10.1016/j.celrep.2019.03.102](https://doi.org/10.1016/j.celrep.2019.03.102) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2819%2930449-8)
 
-#### <a name="6"></a> 6) Chemla et al., *Journal of Neuroscience* (2019)
+Code reproducing the results as a [Jupyter Notebook](https://github.com/yzerlaut/notebook_papers/blob/master/The_Spectrum_of_Asynch_Dynamics_2018.ipynb)
 
-***Suppressive waves spread disambiguate the representation of long-range apparent motion in awake monkey***
-Authors: Chemla S, Reynaud A, di Volo M, Zerlaut Y, Perrinet L, Destexhe A & F Chavane
-DOI: [10.1523/JNEUROSCI.2792-18.2019 ](https://doi.org/10.1523/JNEUROSCI.2792-18.2019) -- [[Pdf version]](https://www.jneurosci.org/content/jneuro/39/22/4282.full.pdf)
+#### <a name="6"></a> 6) ***Suppressive waves spread disambiguate the representation of long-range apparent motion in awake monkey***
 
-#### <a name="5"></a> 5) Zerlaut et al., *Journal of Computational Neuroscience* (2018) 
+Chemla S, Reynaud A, di Volo M, Zerlaut Y, Perrinet L, Destexhe A & F Chavane    
+*Journal of Neuroscience*, 39(22), 4282-4298.   
+DOI: [10.1523/JNEUROSCI.2792-18.2019 ](https://doi.org/10.1523/JNEUROSCI.2792-18.2019) -- [[Pdf version]](https://www.jneurosci.org/content/jneuro/39/22/4282.full.pdf)     
 
-***Modeling mesoscopic cortical dynamics using a mean-field model of conductance-based networks of adaptive exponential integrate-and-fire neurons*** 
-Authors: Zerlaut Y, Chemla S, Chavane F and A Destexhe 
+#### <a name="5"></a> 5) ***Modeling mesoscopic cortical dynamics using a mean-field model of conductance-based networks of adaptive exponential integrate-and-fire neurons*** 
+
+Zerlaut Y, Chemla S, Chavane F and A Destexhe   
+*Journal of Computational Neuroscience*, 44(1), pp.45-61.
 DOI: [10.1007/s10827-017-0668-2](https://doi.org/10.1007/s10827-017-0668-2) -- [[Pdf version]](https://drive.google.com/file/d/1V3r2XS9gTY_NPh2wTd2t2qaOyNN5WJUv/view?usp=share_link)
 
-#### <a name="4"></a> 4) Zerlaut & Destexhe, *Neuron* (2017) 
+#### <a name="4"></a> 4) ***Enhanced Responsiveness and Low-Level Awareness in Stochastic Network States***
 
-***Enhanced Responsiveness and Low-Level Awareness in Stochastic Network States***
-Authors: Zerlaut Y & Destexhe A 
-DOI: [10.1016/j.neuron.2017.04.001](https://doi.org/10.1016/j.neuron.2017.04.001) -- [[Pdf version]](https://drive.google.com/file/d/1MebSSG-ec1b8Tl5dy28MNlHemhisDlcJ/view?usp=share_link)
+Zerlaut Y & Destexhe A      
+*Neuron* 94.5 (2017): 1002-1009.    
+DOI: [10.1016/j.neuron.2017.04.001](https://doi.org/10.1016/j.neuron.2017.04.001) -- [[Pdf version]](https://drive.google.com/file/d/1MebSSG-ec1b8Tl5dy28MNlHemhisDlcJ/view?usp=share_link)     
 
-#### <a name="3"></a> 3) Zerlaut & Destexhe, *PLoS Computational Biology* (2017)
+#### <a name="3"></a> 3) ***Heterogeneous firing responses predict diverse couplings to presynaptic activity in mice layer V pyramidal neurons***
 
-***Heterogeneous firing responses predict diverse couplings to presynaptic activity in mice layer V pyramidal neurons***
-Authors: Zerlaut Y & A Destexhe 
+Zerlaut Y & A Destexhe  
+*PLoS Computational Biology* 13.4 (2017): e1005452.
 DOI: [10.1371/journal.pcbi.1005452](https://doi.org/10.1371/journal.pcbi.1005452) -- [[Pdf version]](https://drive.google.com/file/d/1QPJjQPCGQckMT9ofZgRzoVuwB2YR7XAy/view?usp=share_link)
 
-#### <a name="2"></a> 2) Zerlaut et al., *Journal of Physiology* (2016)
+#### <a name="2"></a> 2) ***Heterogeneous firing response of mice layer V pyramidal neurons in the fluctuation-driven regime***
 
-***Heterogeneous firing response of mice layer V pyramidal neurons in the fluctuation-driven regime***
-Authors: Zerlaut Y, Telenczuk B, Deleuze C, Bal T, Ouanounou G & Destexhe A 
-DOI: [10.1113/JP272317](https://doi.org/10.1113/JP272317) --  [[Pdf version]](https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/JP272317)
+Zerlaut Y, Telenczuk B, Deleuze C, Bal T, Ouanounou G & Destexhe A  
+*The Journal of Physiology* 594.13 (2016): 3791-3808
+DOI: [10.1113/JP272317](https://doi.org/10.1113/JP272317) --  [[Pdf version]](https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/JP272317)     
 
 #### <a name="1"></a> 1) ***Gain Modulation of Synaptic Inputs by Network State in Auditory Cortex In Vivo***
-Reig et al., *Journal of Neuroscience* (2015)
 
-Authors: Reig R, Zerlaut Y, Vergara R, Destexhe A and M.V Sanchez-Vives  
-DOI: [10.1523/JNEUROSCI.2004-14.2015](https://doi.org/10.1523/JNEUROSCI.2004-14.2015) -- [[Pdf version]](https://www.jneurosci.org/content/jneuro/35/6/2689.full.pdf)
+Reig R, Zerlaut Y, Vergara R, Destexhe A and M.V Sanchez-Vives  
+*Journal of Neuroscience* 35.6 (2015): 2689-2702.
+DOI: [10.1523/JNEUROSCI.2004-14.2015](https://doi.org/10.1523/JNEUROSCI.2004-14.2015) -- [[Pdf version]](https://www.jneurosci.org/content/jneuro/35/6/2689.full.pdf)   
 
 ## <a name="datasets"></a> Experimental Datasets
 
