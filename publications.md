@@ -40,7 +40,7 @@ DOI: [10.1371/journal.pcbi.1011434](https://doi.org/10.1371/journal.pcbi.1011434
 
 #### <a name="11"></a> 11) ***Network States Classification based on Local Field Potential Recordings in the Awake Mouse Neocortex***
 
-Zerlaut Y, Zucca S, Panzeri S & T Fellin 
+Zerlaut Y, Zucca S, Panzeri S & T Fellin    
 *Eneuro* 9.4 (2022)     
 DOI: [10.1523/ENEURO.0073-22.2022](https://doi.org/10.1523/ENEURO.0073-22.2022) -- [[Pdf version]](https://www.eneuro.org/content/eneuro/9/4/ENEURO.0073-22.2022.full.pdf)
 
