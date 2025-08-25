@@ -109,7 +109,7 @@ DOI: [10.1113/JP272317](https://doi.org/10.1113/JP272317) --  [[Pdf version]](ht
 #### <a name="1"></a> 1) ***Gain Modulation of Synaptic Inputs by Network State in Auditory Cortex In Vivo***
 
 Reig R, Zerlaut Y, Vergara R, Destexhe A & M V Sanchez-Vives  
-*Journal of Neuroscience* 35.6 (2015): 2689-2702.
+*Journal of Neuroscience* 35.6 (2015): 2689-2702.   
 DOI: [10.1523/JNEUROSCI.2004-14.2015](https://doi.org/10.1523/JNEUROSCI.2004-14.2015) -- [[Pdf version]](https://www.jneurosci.org/content/jneuro/35/6/2689.full.pdf)   
 
 ## <a name="datasets"></a> Experimental Datasets
