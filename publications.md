@@ -70,7 +70,7 @@ DOI: [10.1152/jn.00399.2019](https://doi.org/10.1152/jn.00399.2019) -- [[Pdf ver
 
 #### <a name="7"></a> 7) ***The Spectrum of Asynchronous Dynamics in Spiking Networks as a Model for the Diversity of Non-Rhythmic Waking States in Neocortex"***
 
-Zerlaut Y\*, Zucca S.\*, Panzeri S & T Fellin     (\*co-first authors)  
+Zerlaut Y\*, Zucca S.\*, Panzeri S & T Fellin     (\*co-first authors)      
 *Cell Reports* 27.4 (2019): 1119-1132.    
 DOI: [10.1016/j.celrep.2019.03.102](https://doi.org/10.1016/j.celrep.2019.03.102) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2819%2930449-8)
 
@@ -85,7 +85,7 @@ DOI: [10.1523/JNEUROSCI.2792-18.2019 ](https://doi.org/10.1523/JNEUROSCI.2792-18
 #### <a name="5"></a> 5) ***Modeling mesoscopic cortical dynamics using a mean-field model of conductance-based networks of adaptive exponential integrate-and-fire neurons*** 
 
 Zerlaut Y, Chemla S, Chavane F & A Destexhe   
-*Journal of Computational Neuroscience*, 44(1), pp.45-61.
+*Journal of Computational Neuroscience*, 44(1), pp.45-61.   
 DOI: [10.1007/s10827-017-0668-2](https://doi.org/10.1007/s10827-017-0668-2) -- [[Pdf version]](https://drive.google.com/file/d/1V3r2XS9gTY_NPh2wTd2t2qaOyNN5WJUv/view?usp=share_link)
 
 #### <a name="4"></a> 4) ***Enhanced Responsiveness and Low-Level Awareness in Stochastic Network States***
@@ -96,14 +96,14 @@ DOI: [10.1016/j.neuron.2017.04.001](https://doi.org/10.1016/j.neuron.2017.04.001
 
 #### <a name="3"></a> 3) ***Heterogeneous firing responses predict diverse couplings to presynaptic activity in mice layer V pyramidal neurons***
 
-Zerlaut Y & A Destexhe  
-*PLoS Computational Biology* 13.4 (2017): e1005452.
+Zerlaut Y & A Destexhe   
+*PLoS Computational Biology* 13.4 (2017): e1005452.     
 DOI: [10.1371/journal.pcbi.1005452](https://doi.org/10.1371/journal.pcbi.1005452) -- [[Pdf version]](https://drive.google.com/file/d/1QPJjQPCGQckMT9ofZgRzoVuwB2YR7XAy/view?usp=share_link)
 
 #### <a name="2"></a> 2) ***Heterogeneous firing response of mice layer V pyramidal neurons in the fluctuation-driven regime***
 
-Zerlaut Y, Telenczuk B, Deleuze C, Bal T, Ouanounou G & A Destexhe
-*The Journal of Physiology* 594.13 (2016): 3791-3808
+Zerlaut Y, Telenczuk B, Deleuze C, Bal T, Ouanounou G & A Destexhe      
+*The Journal of Physiology* 594.13 (2016): 3791-3808    
 DOI: [10.1113/JP272317](https://doi.org/10.1113/JP272317) --  [[Pdf version]](https://physoc.onlinelibrary.wiley.com/doi/epdf/10.1113/JP272317)     
 
 #### <a name="1"></a> 1) ***Gain Modulation of Synaptic Inputs by Network State in Auditory Cortex In Vivo***
