@@ -11,7 +11,7 @@ The lab publishes [peer-reviewed articles](./publications.md/#papers), [experime
 
 ## <a name="papers"></a> Peer-Reviewed Articles
 
-##### <a name="15"></a> 15) ***Distinct dendritic integration strategies control dynamics of inhibition in the neocortex***
+#### <a name="15"></a> 15) ***Distinct dendritic integration strategies control dynamics of inhibition in the neocortex***
 
 Morabito A\*, Zerlaut Y\* , Dhanasobhon D, Berthaux E, Martins Pinho C, Tzilivaki A, Moneron G, Cathala L, Poirazi P, Bacci A, Digregorio D, Lourenco J & N Rebola      (* co-first authors)    
 _Neuron_ (in press)     
@@ -28,7 +28,7 @@ DOI: [10.3389/fncel.2024.1479579](https://doi.org/10.3389/fncel.2024.1479579) --
 
 #### <a name="13"></a> 13) ***Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin interneurons during behavioral state transitions***
 
-de Brito Van Velze M, Dhanasobhon D, Martinez M, Morabito A, Berthaux E, Martins Pinho C, Zerlaut Y* & N Rebola*    (<ins>\*co-last authors</ins>)  
+De Brito Van Velze M, Dhanasobhon D, Martinez M, Morabito A, Berthaux E, Martins Pinho C, Zerlaut Y* & N Rebola*    (<ins>\*co-last authors</ins>)  
 *Cell Reports* 43.5 (2024).     
 DOI: [10.1016/j.celrep.2024.114197](https://doi.org/10.1016/j.celrep.2024.114197) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)     
  
@@ -70,7 +70,7 @@ DOI: [10.1152/jn.00399.2019](https://doi.org/10.1152/jn.00399.2019) -- [[Pdf ver
 
 #### <a name="7"></a> 7) ***The Spectrum of Asynchronous Dynamics in Spiking Networks as a Model for the Diversity of Non-Rhythmic Waking States in Neocortex"***
 
-Zerlaut Y\*, Zucca S.\*, Panzeri S & T Fellin     (\*co-first authors)
+Zerlaut Y\*, Zucca S.\*, Panzeri S & T Fellin     (\*co-first authors)  
 *Cell Reports* 27.4 (2019): 1119-1132.    
 DOI: [10.1016/j.celrep.2019.03.102](https://doi.org/10.1016/j.celrep.2019.03.102) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2819%2930449-8)
 
