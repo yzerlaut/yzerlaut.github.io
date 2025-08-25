@@ -64,7 +64,7 @@ Yann Zerlaut
 
 - 2012: PhD fellowship from the Initiative d’Excellence Paris-Saclay (120k)
 
-- 2006: Erasmus scholarship from the European Community 
+- 2010: Erasmus scholarship from the European Community 
 
 ## Invited talks
 
