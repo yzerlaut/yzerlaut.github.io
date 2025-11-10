@@ -42,7 +42,7 @@ Yann Zerlaut
 - 2012: **M.Sc. Cognitive Science**. EHESS Paris, ENS Paris, Université Paris V   
     Specialty: *Mathematical and Physical modeling*
 
-- 2011: **M.Sc. Complex Systems Physics**. Sorbonne Universités (Paris, France)   
+- 2011: **M.Sc. Complex Systems Physics**. Sorbonne Université (Paris, France)   
     Specialty: *Modelling, Statistics and Algorithm in Out-of-Equilibrium Systems*  
     2010: Master 1 at Physics department of [Ludwig Maximilian University](https://www.lmu.de/en/), Munich   
 

@@ -24,7 +24,7 @@ Github repository for the (1) EM data analysis, (2) Biophysical Modelling, (3) I
 
 Zerlaut Y & A Tzilivaki     
 *Frontiers in Cellular Neuroscience* 18 (2025): 1479579.    
-DOI: [10.3389/fncel.2024.1479579](https://doi.org/10.3389/fncel.2024.1479579) -- [[Pdf version]](https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900525-4)
+DOI: [10.3389/fncel.2024.1479579](https://doi.org/10.3389/fncel.2024.1479579) -- [[Pdf version]](https://public-pages-files-2025.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2024.1479579/pdf)
 
 #### <a name="13"></a> 13) ***Feedforward and disinhibitory circuits differentially control activity of cortical somatostatin interneurons during behavioral state transitions***
 
