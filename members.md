@@ -8,16 +8,27 @@ permalink: /members/
 
 <div><img src="../docs/cibele.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
 
+### Adrianna Nozownik
+
+[Google Scholar](https://scholar.google.com/citations?user=p6hDETwAAAAJ&hl=en&oi=ao) --
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=adrianna+nozownik+%5Bauthor%5D) --
+[LinkedIn](https://www.linkedin.com/in/adrianna-nozownik-86618a1b7/)
+
+Adrianna is a PhD student holding a fellowship from the [PhD program in neurosience at Sorbonne Université (ED3C)](https://ed3c.sorbonne-universite.fr/) fellowship. 
+She holds a MSc degree in molecular biology from Hamburg University. In her MSc thesis, she has been working on the characterization of inhibitory optogenetic GPCRs. Now she is working on studying the modulation of synaptic transmission in inhibitory circuit, in particular she analyzes the effect of endocannabinoids on the modulation of layer 1 interneurons in the neocortex.
+Adrianna is co-supervised by [J. Lourenço](https://scholar.google.com/citations?view_op=list_works&hl=fr&user=IoOds1IAAAAJ) and [A. Bacci](https://baccilab.org/).
+
 ### Cibele Martins Pinho 
 
 [Google Scholar](https://scholar.google.com/citations?user=wyYQ0QkAAAAJ&hl=en&oi=ao) -- 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Cibele+Martins+Pinho+%5Bauthor%5D) -- 
 [LinkedIn](https://www.linkedin.com/in/cibelemp/)  
-Cibele is a PhD candidate in the team. She holds a fellowship from the [DIM C-Brains PhD program](https://dim-cbrains.fr/fr/phd-program/dim-cbrains). She received a Bsc degree in Biology and a Msc degree in Neuroscience from the Universidade Federal de Santa Catarina in Brazil. Her research focuses on understanding the functional specialization of inhibitory interneurons during development. She performs two-photon imaging of neuronal activity across different molecularly-defined populations interneurons in the mouse visual cortex during development. She also analyzes the influence of Autism-related genes in controlling the specificity of interneuronal function. Cibele is co-supervised by [N. Rebola](https://therebolalab.org/).
+Cibele is a PhD student in the team. She holds a fellowship from the [DIM C-Brains PhD program](https://dim-cbrains.fr/fr/phd-program/dim-cbrains). She received a Bsc degree in Biology and a Msc degree in Neuroscience from the Universidade Federal de Santa Catarina in Brazil. Her research focuses on understanding the functional specialization of inhibitory interneurons during development. She performs two-photon imaging of neuronal activity across different molecularly-defined populations interneurons in the mouse visual cortex during development. She also analyzes the influence of Autism-related genes in controlling the specificity of interneuronal function.
+Cibele is co-supervised by [N. Rebola](https://therebolalab.org/).
 
 <div><img src="../docs/sally.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
 
-### *Sally* Pan Zhang
+### Pan *Sally* Zhang
 
 [Google Scholar](https://scholar.google.com/citations?user=kIurc7gAAAAJ&hl=en&oi=sra) -- 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Zhang+P&cauthor_id=40044848) -- 
@@ -32,7 +43,9 @@ Sally is co-supervised by [N. Rebola](https://therebolalab.org/).
 [Google Scholar]() --
 [PubMed]() --
 [LinkedIn](https://www.linkedin.com/in/laura-sofia-gonzalez-230100209/)
-Sofia is a PhD student holding a fellowship from the [PhD program in neurosience at Sorbonne Université (ED3C)](https://ed3c.sorbonne-universite.fr/) fellowship. She earned a bachelor’s degree in life science engineering from Ecole Polytechnique Fédérale de Lausanne (EPFL) and a master’s in neuroscience from the University of Geneva (UNIGE), Switzerland. Her research focuses on characterizing layer 1 interneurons (L1 IN) activity and their role in neocortical function. Using in vivo two-photon imaging in awake mice during visual stimulation, she examines neuronal activity while disrupting L1 INs through photoinactivation or NMDAR deletion. Sofia is co-supervised by [N. Rebola](https://therebolalab.org/).  
+Sofia is a PhD student holding a fellowship from the [PhD program in neurosience at Sorbonne Université (ED3C)](https://ed3c.sorbonne-universite.fr/) fellowship. 
+She earned a bachelor’s degree in life science engineering from Ecole Polytechnique Fédérale de Lausanne (EPFL) and a master’s in neuroscience from the University of Geneva (UNIGE), Switzerland. Her research focuses on characterizing layer 1 interneurons (L1 IN) activity and their role in neocortical function. Using in vivo two-photon imaging in awake mice during visual stimulation, she examines neuronal activity while disrupting L1 INs through photoinactivation or NMDAR deletion. 
+Sofia is co-supervised by [N. Rebola](https://therebolalab.org/).  
 
 <div><img src="../docs/yann.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
 
