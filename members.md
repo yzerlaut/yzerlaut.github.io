@@ -6,7 +6,7 @@ permalink: /members/
 
 ## Current
 
-<div><img src="../docs/cibele.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
+<div><img src="../docs/adrianna.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
 
 ### Adrianna Nozownik
 
@@ -17,6 +17,8 @@ permalink: /members/
 Adrianna is a PhD student holding a fellowship from the [PhD program in neurosience at Sorbonne Université (ED3C)](https://ed3c.sorbonne-universite.fr/) fellowship. 
 She holds a MSc degree in molecular biology from Hamburg University. In her MSc thesis, she has been working on the characterization of inhibitory optogenetic GPCRs. Now she is working on studying the modulation of synaptic transmission in inhibitory circuit, in particular she analyzes the effect of endocannabinoids on the modulation of layer 1 interneurons in the neocortex.
 Adrianna is co-supervised by [J. Lourenço](https://scholar.google.com/citations?view_op=list_works&hl=fr&user=IoOds1IAAAAJ) and [A. Bacci](https://baccilab.org/).
+
+<div><img src="../docs/cibele.png" alt="profile" width="20%" align="left" style="margin-right: 10px"></div>
 
 ### Cibele Martins Pinho 
 
