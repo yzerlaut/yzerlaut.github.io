@@ -44,7 +44,7 @@ Sally is co-supervised by [N. Rebola](https://therebolalab.org/).
 
 [Google Scholar]() --
 [PubMed]() --
-[LinkedIn](https://www.linkedin.com/in/laura-sofia-gonzalez-230100209/)
+[LinkedIn](https://www.linkedin.com/in/laura-sofia-gonzalez-230100209/)  
 Sofia is a PhD student holding a fellowship from the [PhD program in neurosience at Sorbonne Université (ED3C)](https://ed3c.sorbonne-universite.fr/) fellowship. 
 She earned a bachelor’s degree in life science engineering from Ecole Polytechnique Fédérale de Lausanne (EPFL) and a master’s in neuroscience from the University of Geneva (UNIGE), Switzerland. Her research focuses on characterizing layer 1 interneurons (L1 IN) activity and their role in neocortical function. Using in vivo two-photon imaging in awake mice during visual stimulation, she examines neuronal activity while disrupting L1 INs through photoinactivation or NMDAR deletion. 
 Sofia is co-supervised by [N. Rebola](https://therebolalab.org/).  
