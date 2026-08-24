@@ -129,3 +129,34 @@ See our [Released Model list on the EBrains platform](https://search.kg.ebrains.
 #### 2) [Rall Morphology Model for Layer 5 Pyramidal Cells in Mouse V1](https://search.kg.ebrains.eu/?category=Model&q=Zerlaut%20Y#a8b0d44a-267d-4cd5-b205-eee5c052603f)
 
 #### 1) [Mean-field Model of AdEx networks](https://search.kg.ebrains.eu/?category=Model&q=Zerlaut%20Y#bc3b915f-1ef4-43bc-890b-8b5098d080da)
+
+
+## Conference Abstracts
+
+#### 4) Neuronal circuits underlying the control of cortical functions by the mesencephalic locomotor region
+
+Pan Zhang, Nelson Rebola, Yann Zerlaut
+
+    DBS 2026, Paris
+
+
+#### 3) Stimulus- and State-Dependent Control of Layer 1 NDNF Interneurons in Primary Visual Cortex. 
+
+Laura Gonzalez, Marie Martinez, Cibele Martins Pinho, Nelson Rebola, Yann Zerlaut
+
+    FENS 2026, Barcelona
+
+
+#### 2) In Vivo characterization of PV and SST interneuron development in the primary visual cortex: Implications for Neurodevelopmental Disorders
+
+Cibele Martins Pinho, Yann Zerlaut, Nelson Rebola
+
+    FENS 2026, Barcelona
+
+
+#### 1) In Vivo Investigation of Synaptic Mechanisms Regulating Interneuron Function in the Mouse Primary Visual Cortex During Neurodevelopment
+
+Cibele Martins Pinho,  Nelson Rebola & Yann Zerlaut
+
+    OPTOGEN 2025, Copenhagen
+
