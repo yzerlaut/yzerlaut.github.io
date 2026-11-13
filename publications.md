@@ -133,12 +133,17 @@ See our [Released Model list on the EBrains platform](https://search.kg.ebrains.
 
 ## Conference Abstracts
 
-#### 4) Neuronal circuits underlying the control of cortical functions by the mesencephalic locomotor region
+#### 5) Neuronal circuits underlying the control of cortical functions by the mesencephalic locomotor region
 
 Pan Zhang, Nelson Rebola, Yann Zerlaut
 
     DBS 2026, Paris
 
+#### 4) Physion: An integrated software for the acquisition, analyses and sharing of neurophysiological recordings during visual processing in awake mice
+
+Mai-An Nguyen , Faezeh Rabbani, Adrianna Nozownik, Nathan Mallet, Nelson Rebola, Alberto Bacci, Yann Zerlaut, Joana Lourenço
+
+    FENS 2026, Barcelona
 
 #### 3) Stimulus- and State-Dependent Control of Layer 1 NDNF Interneurons in Primary Visual Cortex. 
 
